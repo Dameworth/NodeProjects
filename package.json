@@ -6,7 +6,7 @@
     "main": "censortext",
     "repository": {
         "type": "git",
-        //"url": "https://github.com/Dameworth/censorify"
+        "url": "https://github.com/Dameworth/censorify"
     },
     "keywords": [
         "censor",
